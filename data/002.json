@@ -1,0 +1,190 @@
+[{
+  "CityID": 1,
+  "name": "北京",
+  "ProID": 1,
+  "CitySort": 1
+}, {
+  "CityID": 2,
+  "name": "天津",
+  "ProID": 2,
+  "CitySort": 2
+}, {
+  "CityID": 3,
+  "name": "上海",
+  "ProID": 9,
+  "CitySort": 3
+}, {
+  "CityID": 4,
+  "name": "重庆",
+  "ProID": 27,
+  "CitySort": 4
+}, {
+  "CityID": 6,
+  "name": "石家庄",
+  "ProID": 3,
+  "CitySort": 6
+},
+  {   "CityID": 8,
+    "name": "张家口",
+    "ProID": 3,
+    "CitySort": 8
+  },   {"CityID": 27,
+  "name": "沈阳",
+  "ProID": 6,
+  "CitySort": 27
+},  {
+  "CityID": 29,
+  "name": "大连",
+  "ProID": 6,
+  "CitySort": 29
+},  {
+  "CityID": 37,
+  "name": "辽阳",
+  "ProID": 6,
+  "CitySort": 37
+}, {
+  "CityID": 41,
+  "name": "长春",
+  "ProID": 7,
+  "CitySort": 41
+}, {
+  "CityID": 42,
+  "name": "吉林",
+  "ProID": 7,
+  "CitySort": 42
+}, {
+  "CityID": 50,
+  "name": "哈尔滨",
+  "ProID": 8,
+  "CitySort": 50
+},{
+  "CityID": 63,
+  "name": "南京",
+  "ProID": 10,
+  "CitySort": 63
+}, {
+  "CityID": 64,
+  "name": "无锡",
+  "ProID": 10,
+  "CitySort": 64
+}, {
+  "CityID": 65,
+  "name": "镇江",
+  "ProID": 10,
+  "CitySort": 65
+}, {
+  "CityID": 66,
+  "name": "苏州",
+  "ProID": 10,
+  "CitySort": 66
+}, {
+  "CityID": 67,
+  "name": "南通",
+  "ProID": 10,
+  "CitySort": 67
+}, {
+  "CityID": 68,
+  "name": "扬州",
+  "ProID": 10,
+  "CitySort": 68
+}, {
+  "CityID": 69,
+  "name": "盐城",
+  "ProID": 10,
+  "CitySort": 69
+}, {
+  "CityID": 70,
+  "name": "徐州",
+  "ProID": 10,
+  "CitySort": 70
+}, {
+  "CityID": 71,
+  "name": "淮安",
+  "ProID": 10,
+  "CitySort": 71
+}, {
+  "CityID": 72,
+  "name": "连云港",
+  "ProID": 10,
+  "CitySort": 72
+}, {
+  "CityID": 73,
+  "name": "常州",
+  "ProID": 10,
+  "CitySort": 73
+}, {
+  "CityID": 74,
+  "name": "泰州",
+  "ProID": 10,
+  "CitySort": 74
+}, {
+  "CityID": 75,
+  "name": "宿迁",
+  "ProID": 10,
+  "CitySort": 75
+}, {
+  "CityID": 76,
+  "name": "舟山",
+  "ProID": 11,
+  "CitySort": 76
+}, {
+  "CityID": 78,
+  "name": "杭州",
+  "ProID": 11,
+  "CitySort": 78
+}, {
+  "CityID": 79,
+  "name": "湖州",
+  "ProID": 11,
+  "CitySort": 79
+}, {
+  "CityID": 80,
+  "name": "嘉兴",
+  "ProID": 11,
+  "CitySort": 80
+}, {
+  "CityID": 81,
+  "name": "宁波",
+  "ProID": 11,
+  "CitySort": 81
+}, {
+  "CityID": 82,
+  "name": "绍兴",
+  "ProID": 11,
+  "CitySort": 82
+}, {
+  "CityID": 83,
+  "name": "温州",
+  "ProID": 11,
+  "CitySort": 83
+}, {
+  "CityID": 87,
+  "name": "合肥",
+  "ProID": 12,
+  "CitySort": 87
+}, {
+  "CityID": 88,
+  "name": "芜湖",
+  "ProID": 12,
+  "CitySort": 88
+}, {
+  "CityID": 89,
+  "name": "蚌埠",
+  "ProID": 12,
+  "CitySort": 89
+}, {
+  "CityID": 92,
+  "name": "淮北",
+  "ProID": 12,
+  "CitySort": 92
+}, {
+  "CityID": 93,
+  "name": "铜陵",
+  "ProID": 12,
+  "CitySort": 93
+},{
+  "CityID": 95,
+  "name": "黄山",
+  "ProID": 12,
+  "CitySort": 95
+}]
